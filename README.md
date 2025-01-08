@@ -9,10 +9,10 @@ In short curiosity and the longing for the unknown is what motivates and fascina
 I've lived in 3 countries and we can have an exchange in:
 | Language  | Level |
 | ------------- | ------------- |
-| ![image](https://github.com/VolAl/portfolio/assets/31987391/8008736d-d234-4277-bded-c45525c22595)  | Madrelingua  |
-| ![image](https://github.com/VolAl/portfolio/assets/31987391/c0fa5748-1da3-4dd3-a4dc-6bc9bfecd4ec)  | Fluent  |
-| ![image](https://github.com/VolAl/portfolio/assets/31987391/a17b75e8-315d-4b9a-bbf4-03e6476365de)  | Ich arbeite daran und mache Fortschritte  |
-| ![image](https://github.com/VolAl/portfolio/assets/31987391/6cdb7aca-80d6-43b7-add0-3bf5ab59f979)  | Connaissances de base  |
+| <img src="https://github.com/user-attachments/assets/3ab54171-ab14-4c36-9606-73ca2316a381" alt="italy" style="width:75px;"/> | Madrelingua  |
+| <img src="https://github.com/user-attachments/assets/b0eb3247-ddc4-4200-890a-4fa5e93c437a" alt="uk" style="width:75px;"/> | Fluent  |
+| <img src="https://github.com/user-attachments/assets/0660e7a8-c930-46fa-a4cf-7559114bc9fc" alt="germany" style="width:75px;"/>  | Ich arbeite daran und mache Fortschritte  |
+| <img src="https://github.com/user-attachments/assets/ead7628f-0fd7-46ff-8e82-7366e870fde4" alt="france" style="width:75px;"/>  | Connaissances de base  |
 
 
 # Here's what I've experimented with and gathered knowledge on in the last years
