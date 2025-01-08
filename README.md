@@ -11,7 +11,7 @@ I've lived in 3 countries and we can have an exchange in:
 | ------------- | ------------- |
 | <img src="https://github.com/user-attachments/assets/3ab54171-ab14-4c36-9606-73ca2316a381" alt="italy" style="width:75px;"/> | Madrelingua  |
 | <img src="https://github.com/user-attachments/assets/b0eb3247-ddc4-4200-890a-4fa5e93c437a" alt="uk" style="width:75px;"/> | Fluent  |
-| <img src="https://github.com/user-attachments/assets/0660e7a8-c930-46fa-a4cf-7559114bc9fc" alt="germany" style="width:75px;"/>  | Ich arbeite daran und mache Fortschritte  |
+| <img src="https://github.com/user-attachments/assets/0660e7a8-c930-46fa-a4cf-7559114bc9fc" alt="germany" style="width:75px;"/>  | Fortgeschritten  |
 | <img src="https://github.com/user-attachments/assets/ead7628f-0fd7-46ff-8e82-7366e870fde4" alt="france" style="width:75px;"/>  | Connaissances de base  |
 
 
