@@ -1,4 +1,4 @@
-# Hi there, welcome to my profile!
+# Hi there, welcome to my profile! 👋
 I'm Alessia, a passionate developer on a discovery journey :earth_africa:.
 
 My interests spans across different cultures, languages, cuisines, forms of art expressions, ways of living ...
@@ -16,7 +16,6 @@ I've lived in 3 countries and we can have an exchange in:
 
 
 # Here's what I've experimented with and gathered knowledge on in the last years
-
 [![My Skills](https://skillicons.dev/icons?i=azure,kubernetes,docker,git,graphql,hibernate,spring,java,nginx,angular,ts,js,html,css,bootstrap,idea,vscode)](https://skillicons.dev)
 
 Additionally, other technologies I've worked with in the past, but don't practice as often nowadays:
